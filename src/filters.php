@@ -48,7 +48,7 @@ Route::filter('hasPermissions', function($route, $request, $userPermission = nul
 
         if(!Sentry::getUser()->hasAccess($permission))
         {
-            return App::abort(403, Lang::trans('syntara::all.titles.error'));
+            return App::abort(403);
         }
     }
 });
