@@ -22,12 +22,12 @@ return array(
         'login-failed' => 'Login fehlgeschlagen, bitte versuchen Sie es erneut.',
         'denied' => 'Zugang verweigert.',
         'error'=>array(
-            '404' => 'We kunnen \' t vinden de pagina die u zoekt ',
-            '404-title' => '404. Niet gevonden ',
-            '403' => 'We zijn zo droevig, maar u bent niet toegestaan ​​om deze pagina te bekijken',
-            '403-title' => '403. Toegang geweigerd ',
-            '500' => 'We ondervonden een aantal problemen. Sorry. :-('
-            '500-title' => '500. Internal Server Error ', 
+          '404' => 'Die gewünschte Seite wurde vom Server nicht gefunden.',
+          '404-title' => '404. Seite nicht gefunden',
+          '403' => 'Die Anfrage wurde mangels Berechtigung nicht durchgeführt.',
+          '403-title' => '403. Zugriff verweigert',
+          '500' => 'Der Server konnte die Anforderung aufgrund eines Fehlers nicht ausführen. Sorry :-(',
+          '500-title' => '500. Interner Serverfehler',
         ),
     ),
     'titles' => array(
