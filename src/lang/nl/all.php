@@ -26,7 +26,7 @@ return array(
              '404-title' => '404. Niet gevonden ',
              '403' => 'We zijn zo droevig, maar u bent niet toegestaan ​​om deze pagina te bekijken',
              '403-title' => '403. Toegang geweigerd ',
-             '500' => 'We ondervonden een aantal problemen. Sorry. :-('
+             '500' => 'We ondervonden een aantal problemen. Sorry. :-(',
              '500-title' => '500. Internal Server Error ',
          )
     ),
