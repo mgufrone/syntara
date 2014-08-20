@@ -22,12 +22,12 @@ return array(
         'login-failed' => 'Oprostite, pri prijavi je prišlo do napake.',
         'denied' => 'Oprostite, nimate pravic za dostop !',
         'error' => array (
-             '404' => 'Nemo\u017eno nájs\u0165 stránku, ktorú h\u013eadáte',
-             "404-title"=>' 404. Not Found ',
-             "403" => "Je nám to \u013eúto, ale nemáte oprávnenie k prístupu na túto stránku",
-             "403-title"=>" 403. Prístup bol odmietnutý ",
-             "500" => "Narazili sme na niektoré problémy. Ospravedl\u0148ujeme sa. :-(",
-             "500-title"=>"500. Internal Server Error ",
+             '404' => 'Nemo\u017eno nájs\u0165 stránku, ktorú h\u013eadáte.',
+             '404-title'=>' 404. Not Found.',
+             '403' => 'Je nám to \u013eúto, ale nemáte oprávnenie k prístupu na túto stránku.',
+             '403-title'=>' 403. Prístup bol odmietnutý.',
+             '500' => 'Narazili sme na niektoré problémy. Ospravedl\u0148ujeme sa. :-(.',
+             '500-title'=>'500. Internal Server Error.',
          ),
     ),
     'titles' => array(
